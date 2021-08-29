@@ -5,7 +5,7 @@
     "messages": [
         "Proceso ejecutado correctamente."
     ],
-    "data": {
+    "data": [
         "[CORRECTO: Se guardó el perfil correctamente]"
-    }
+    ]
 }
