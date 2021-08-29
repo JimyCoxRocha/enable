@@ -1,0 +1,11 @@
+{
+    "error": false,
+    "typeError": "",
+    "numRows": 2,
+    "messages": [
+        "Proceso ejecutado correctamente."
+    ],
+    "data": {
+        "[CORRECTO: Se guardó el perfil correctamente]"
+    }
+}
